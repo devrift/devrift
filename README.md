@@ -3,9 +3,10 @@
 # im a
 •student developer.
 
-#and
+# and
 •currently building things are easier in my head.
-#working on
+
+# working on
 some projects from national level
 
 
